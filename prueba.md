@@ -1,3 +1,3 @@
 # Probando Git
 
-# Actualizando el archivo
+## Actualizando el archivo y corrigiendo
